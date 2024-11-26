@@ -16,13 +16,11 @@ namespace FinalSite.Controllers
             _httpClient = httpClientFactory.CreateClient("ClientManagementAPI");
         }
 
-        // Отображение формы
         public IActionResult Create()
         {
             return View();
         }
 
-        // Обработка данных формы
         [HttpPost]
         public async Task<IActionResult> Create(ClientViewModel model)
         {

@@ -24,3 +24,5 @@ C:\Users\mskos\OneDrive\Рабочий стол\Final\ClientManagementApp\Client
 C:\Users\mskos\OneDrive\Рабочий стол\Final\ClientManagementApp\ClientManagementApp\obj\Debug\net9.0-windows\ClientManagementApp.pdb
 C:\Users\mskos\OneDrive\Рабочий стол\Final\ClientManagementApp\ClientManagementApp\obj\Debug\net9.0-windows\ClientManagementApp.genruntimeconfig.cache
 C:\Users\mskos\OneDrive\Рабочий стол\Final\ClientManagementApp\ClientManagementApp\obj\Debug\net9.0-windows\ref\ClientManagementApp.dll
+C:\Users\mskos\OneDrive\Рабочий стол\Final\ClientManagementApp\ClientManagementApp\obj\Debug\net9.0-windows\BlogWindow.baml
+C:\Users\mskos\OneDrive\Рабочий стол\Final\ClientManagementApp\ClientManagementApp\obj\Debug\net9.0-windows\BlogWindow.g.cs

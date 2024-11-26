@@ -21,7 +21,10 @@ namespace ClientManagementApp.Services
             };
         }
 
-        public async Task<List<Client>> GetClientsAsync()
+       public HttpClient GetHttpClient()
+            { return _httpClient; }
+
+       public async Task<List<Client>> GetClientsAsync()
         {
             var response = await _httpClient.GetAsync("Clients");
             response.EnsureSuccessStatusCode();

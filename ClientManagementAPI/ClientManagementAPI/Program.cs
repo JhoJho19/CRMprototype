@@ -1,5 +1,6 @@
 using ClientManagementAPI.Data;
 using ClientManagementAPI.Hubs;
+using ClientManagementAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -52,22 +53,21 @@ app.UseEndpoints(endpoints =>
         pattern: "{controller=Home}/{action=Index}/{id?}"); 
 });
 
-using (var scope = app.Services.CreateScope()) // тестовое заполнение базы
+// Тестовое заполнение базы данных
+using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
 
-    if (!context.Clients.Any(c => c.Email == "semrnoff@ml.ru"))
+    // Добавление тестовой записи в таблицу BlogPosts
+    if (!context.BlogPosts.Any(b => b.Content == "Это тестовая запись"))
     {
-        context.Clients.Add(new Client
+        context.BlogPosts.Add(new BlogPost
         {
-            Name = "Семенов Петр Петрович",
-            Email = "semrnoff@ml.ru",
-            Message = "Нужна консультация!",
-            AddedAt = DateTime.Now
+            DatePosted = DateTime.Now,
+            Content = "Это тестовая запись"
         });
         context.SaveChanges();
     }
 }
-
 
 app.Run();

@@ -1,6 +1,7 @@
 ﻿using ClientManagementApp.Models;
 using ClientManagementApp.Services;
 using System.Collections.Generic;
+using System.Net.Http;
 using System.Windows;
 using System.Windows.Controls;
 
@@ -113,6 +114,12 @@ namespace ClientManagementApp
             {
                 MessageBox.Show($"Ошибка при удалении клиента: {ex.Message}", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
             }
+        }
+        // блог
+        private void OpenBlogWindow_Click(object sender, RoutedEventArgs e)
+        {
+            var blogWindow = new BlogWindow(_apiService.GetHttpClient());
+            blogWindow.ShowDialog();
         }
     }
 }

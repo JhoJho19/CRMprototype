@@ -49,6 +49,26 @@ namespace ClientManagementAPI.Migrations
 
                     b.ToTable("Clients");
                 });
+
+            modelBuilder.Entity("ClientManagementAPI.Models.BlogPost", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("DatePosted")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("BlogPosts");
+                });
 #pragma warning restore 612, 618
         }
     }

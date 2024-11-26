@@ -3,12 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\blog\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\blog\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\models\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\models\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,44 +79,8 @@
       "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -65,22 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\models\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\models\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|solutionrelative:finalsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B08D2A83-CC86-4B24-8E6D-AEF978C0BDEC}|FinalSite\\FinalSite.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\site\\finalsite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -94,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,7 +110,215 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "FinalSite\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "FinalSite\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:27:41.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Blog\\Blog.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Blog\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Blog\\Blog.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Blog\\Blog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T22:34:27.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Models\\ClientViewModel.cs",
+              "RelativeDocumentMoniker": "FinalSite\\Models\\ClientViewModel.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Models\\ClientViewModel.cs",
+              "RelativeToolTip": "FinalSite\\Models\\ClientViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:13:19.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "FinalSite\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "FinalSite\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:12:15.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:13:50.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T12:08:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:09:40.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalSite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalSite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:18:13.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "FinalSite\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Models\\BlogPost.cs",
+              "RelativeToolTip": "FinalSite\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:25:01.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:13:55.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:13:54.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Contacts.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Contacts.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Home\\Contacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:05:17.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FinalSite\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FinalSite\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:08:43.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Clients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Clients\\Create.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Clients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:18:45.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:20:18.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Program.cs",
+              "RelativeDocumentMoniker": "FinalSite\\Program.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Program.cs",
+              "RelativeToolTip": "FinalSite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:22:05.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FinalSite\\Views\\_ViewImports.cshtml",
@@ -110,11 +326,51 @@
               "RelativeToolTip": "FinalSite\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:27:45.284Z"
+              "WhenOpened": "2024-11-26T08:27:45.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Home\\Services.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:04:31.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Home\\Projects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:02:26.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FinalSite\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T11:54:17.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\appsettings.json",
               "RelativeDocumentMoniker": "FinalSite\\appsettings.json",
@@ -126,152 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FinalSite\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FinalSite\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T08:18:13.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:13:55.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:13:54.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Footer.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Shared\\_Footer.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Footer.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Shared\\_Footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:13:50.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contacts.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Contacts.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Contacts.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Contacts.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Home\\Contacts.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:05:17.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Blog.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Blog.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Blog.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Blog.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Home\\Blog.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:05:01.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Services.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Services.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Services.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Services.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Home\\Services.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:04:31.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Projects.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Projects.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Projects.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Projects.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Home\\Projects.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:02:26.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Header.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Header.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Shared\\_Header.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:09:40.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T12:08:48.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "FinalSite\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "FinalSite\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:08:43.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T11:54:17.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "FinalSite\\Properties\\launchSettings.json",
@@ -283,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "FinalSite\\Views\\_ViewStart.cshtml",
@@ -292,67 +403,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-25T09:20:45.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T09:20:18.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Clients\\Create.cshtml",
-              "RelativeDocumentMoniker": "FinalSite\\Views\\Clients\\Create.cshtml",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Views\\Clients\\Create.cshtml",
-              "RelativeToolTip": "FinalSite\\Views\\Clients\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T09:18:45.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ClientViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Models\\ClientViewModel.cs",
-              "RelativeDocumentMoniker": "FinalSite\\Models\\ClientViewModel.cs",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Models\\ClientViewModel.cs",
-              "RelativeToolTip": "FinalSite\\Models\\ClientViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T09:13:19.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "FinalSite\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "FinalSite\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T09:12:15.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Program.cs",
-              "RelativeDocumentMoniker": "FinalSite\\Program.cs",
-              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\Site\\FinalSite\\Program.cs",
-              "RelativeToolTip": "FinalSite\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T03:22:05.997Z"
             }
           ]
         }
