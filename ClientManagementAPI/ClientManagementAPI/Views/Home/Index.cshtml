@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Clients Management";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Clients</h1>
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Message</th>
+                    <th>Added At</th>
+                </tr>
+            </thead>
+            <tbody id="clients-table">
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.15/signalr.min.js"></script>
+<script>
+    const connection = new signalR.HubConnectionBuilder().withUrl("/notificationHub").build();
+
+    async function loadClients() {
+        const response = await fetch('/api/clients');
+        const clients = await response.json();
+        const table = document.getElementById('clients-table');
+        table.innerHTML = '';
+        clients.forEach(client => {
+            const addedAt = new Date(client.addedAt).toLocaleString();
+            const row = `<tr>
+                <td>${client.id}</td>
+                <td>${client.name}</td>
+                <td>${client.email}</td>
+                <td>${client.message}</td>
+                <td>${addedAt}</td>
+            </tr>`;
+            table.innerHTML += row;
+        });
+    }
+
+    connection.on("UpdateClients", loadClients);
+
+    connection.start().then(loadClients);
+</script>

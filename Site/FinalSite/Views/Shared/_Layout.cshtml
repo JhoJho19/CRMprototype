@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/freelancer.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body id="page-top">
+
+    <!-- Header -->
+    @await Html.PartialAsync("_Header")
+
+    <!-- Main Content -->
+    <main role="main">
+        @RenderBody()
+        @RenderSection("Scripts", required: false)
+    </main>
+
+    <!-- Footer -->
+    @await Html.PartialAsync("_Footer")
+
+    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/freelancer.js"></script>
+</body>
+</html>

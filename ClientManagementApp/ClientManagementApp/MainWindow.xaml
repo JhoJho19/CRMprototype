@@ -1,0 +1,22 @@
+﻿<Window x:Class="ClientManagementApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Управление клиентами" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="ClientsDataGrid" AutoGenerateColumns="False" Margin="10" CanUserAddRows="False"
+                  CellEditEnding="ClientsDataGrid_CellEditEnding">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ID}" Width="50" IsReadOnly="True" />
+                <DataGridTextColumn Header="Имя" Binding="{Binding Name}" Width="200" />
+                <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="200" />
+                <DataGridTextColumn Header="Сообщение" Binding="{Binding Message}" Width="800" />
+                <DataGridTextColumn Header="Дата добавления" Binding="{Binding AddedAt}" Width="150" IsReadOnly="True" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10">
+            <Button Content="Добавить" x:Name="AddButton" Click="AddButton_Click" />
+            <Button Content="Обновить" x:Name="UpdateButton" Click="UpdateButton_Click" />
+            <Button Content="Удалить" x:Name="DeleteButton" Click="DeleteButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

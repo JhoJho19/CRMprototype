@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\clientmanagementapp\\clientmanagementapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|solutionrelative:clientmanagementapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\clientmanagementapp\\clientmanagementapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|solutionrelative:clientmanagementapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mskos\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\clientmanagementapp\\clientmanagementapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|solutionrelative:clientmanagementapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\clientmanagementapp\\clientmanagementapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|solutionrelative:clientmanagementapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\clientmanagementapp\\clientmanagementapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|solutionrelative:clientmanagementapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\clientmanagementapp\\clientmanagementapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|solutionrelative:clientmanagementapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\clientmanagementapp\\clientmanagementapp\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|solutionrelative:clientmanagementapp\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\clientmanagementapp\\clientmanagementapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|solutionrelative:clientmanagementapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|c:\\users\\mskos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\clientmanagementapp\\clientmanagementapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96332813-5E29-4276-A7DC-9D85680C2F26}|ClientManagementApp\\ClientManagementApp.csproj|solutionrelative:clientmanagementapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\mskos\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAswKMBAAAsAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:46:23.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ClientManagementApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\App.xaml.cs",
+              "RelativeToolTip": "ClientManagementApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:10:22.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClientManagementApp\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ClientManagementApp\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:58:48.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ClientManagementApp\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\LoginWindow.xaml",
+              "RelativeToolTip": "ClientManagementApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T10:56:14.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\ApiService.cs",
+              "RelativeDocumentMoniker": "ClientManagementApp\\ApiService.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\ApiService.cs",
+              "RelativeToolTip": "ClientManagementApp\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:29:52.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ClientManagementApp\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\Models\\Client.cs",
+              "RelativeToolTip": "ClientManagementApp\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:19:06.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClientManagementApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClientManagementApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwE0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:09:40.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ClientManagementApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\MainWindow.xaml",
+              "RelativeToolTip": "ClientManagementApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T19:24:44.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\App.xaml",
+              "RelativeDocumentMoniker": "ClientManagementApp\\App.xaml",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\App.xaml",
+              "RelativeToolTip": "ClientManagementApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T11:11:28.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ClientManagementApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\mskos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Final\\ClientManagementApp\\ClientManagementApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "ClientManagementApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:52:09.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
